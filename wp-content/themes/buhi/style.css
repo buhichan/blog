@@ -1,0 +1,18 @@
+/*
+Theme Name:     Buhi
+Theme URI:      http://www.buhichan.xyz
+Description:    TwentySixteen Child Theme
+Author:         buhi
+Author URI:  http://www.buhichan.xyz
+Template:       twentysixteen
+Version:        1.0.0
+*/
+
+@import url("../twentysixteen/style.css");
+
+/* =Theme customization starts here
+ * ------------------------------------------------------- */
+
+.header-image img{
+width:100%;
+}
